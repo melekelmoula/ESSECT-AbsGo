@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">779343230488-132f7phfv3d3n8b8epd5b5q7qd13lu55.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://essectmobile-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">779343230488</string>
+    <string name="google_api_key" translatable="false">AIzaSyBGTBiNaUF2U84xnH-M9rYDKsU5z-YKczY</string>
+    <string name="google_app_id" translatable="false">1:779343230488:android:8c830162e2ff5214a9f56d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGTBiNaUF2U84xnH-M9rYDKsU5z-YKczY</string>
+    <string name="google_storage_bucket" translatable="false">essectmobile.firebasestorage.app</string>
+    <string name="project_id" translatable="false">essectmobile</string>
+</resources>
