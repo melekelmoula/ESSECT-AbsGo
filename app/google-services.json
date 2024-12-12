@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779343230488",
+    "firebase_url": "https://essectmobile-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "essectmobile",
+    "storage_bucket": "essectmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779343230488:android:8c830162e2ff5214a9f56d",
+        "android_client_info": {
+          "package_name": "com.example.essectmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779343230488-132f7phfv3d3n8b8epd5b5q7qd13lu55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTBiNaUF2U84xnH-M9rYDKsU5z-YKczY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779343230488-132f7phfv3d3n8b8epd5b5q7qd13lu55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
